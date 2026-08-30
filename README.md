@@ -22,7 +22,7 @@ Automatizar a elaboração de orçamentos de aluguel para apartamentos, casas e 
 - Geração de arquivo CSV compatível com o Excel.
 - Validação de campos obrigatórios e valores inválidos.
 
-## Regras de negócio
+## Negócio
 
 ### Apartamento
 
@@ -59,11 +59,7 @@ Automatizar a elaboração de orçamentos de aluguel para apartamentos, casas e 
 - Visual Studio Code
 - Git e GitHub
 
-A aplicação utiliza somente recursos da biblioteca padrão do Python, não sendo necessária a instalação de dependências externas.
-
-## Conceitos aplicados
-
-O projeto utiliza os seguintes conceitos de programação:
+## Aplicação
 
 - Classes e objetos
 - Atributos e métodos
