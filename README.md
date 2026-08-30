@@ -82,14 +82,14 @@ O projeto utiliza os seguintes conceitos de programação:
 
 ```text
 trabalho_orcamento_aluguel/
-├── .gitignore
-├── exemplo_orcamento.csv
-├── gerador_csv.py
-├── imoveis.py
-├── interface.py
-├── main.py
-├── orcamento.py
-├── utilitarios.py
-├── visualizacao.py
-└── README.md
+.gitignore
+exemplo_orcamento.csv
+gerador_csv.py
+imoveis.py
+interface.py
+main.py
+orcamento.py
+utilitarios.py
+visualizacao.py
+README.md
 ```
