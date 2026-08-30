@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+orcamento_*.csv
+!exemplo_orcamento.csv
